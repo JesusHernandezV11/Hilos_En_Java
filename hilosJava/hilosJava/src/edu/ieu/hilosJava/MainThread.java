@@ -15,7 +15,7 @@ public class MainThread {
 
 	      );
 
-	      Cliente cliente3 = new Cliente("Cliente Ramon",
+	      Cliente cliente3 = new Cliente("Cliente Jesus",
 
 	            new int[] {8, 3, 6, 9, 4});
 
@@ -27,7 +27,7 @@ public class MainThread {
 
 	      CajeraThread cajero1 = new CajeraThread("Cajero Cesar",   cliente1, initialTime);
 
-	      CajeraThread cajero2 = new CajeraThread("Cajero Jesus",cliente2, initialTime);
+	      CajeraThread cajero2 = new CajeraThread("Cajero isidro",cliente2, initialTime);
 
 	      CajeraThread cajero3 = new CajeraThread("Cajero Ramon",   cliente3, initialTime);
 
