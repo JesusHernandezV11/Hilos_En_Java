@@ -10,9 +10,9 @@ public class Main {
         
         Cajera cajero1=new Cajera("Cajero Cesar");
         
-        Cajera cajero2=new Cajera("Cajero Jesus");
+        Cajera cajero2=new Cajera("Cajero Isidro");
         
-        Cajera cajero3=new Cajera("Cajero Gaby");
+        Cajera cajero3=new Cajera("Cajero Ramon");
         //inicializamos el tiempo 
         long initialTime =System.currentTimeMillis();
         
